@@ -2,4 +2,4 @@
 
 # [Project] Subreddit Sentiment Analysis, A Course Final Project
 
-**Goal**: Conduct computational lingustics analysis of particular subreddits of choice, emphasis on sentiment analysis
+**Goal**: Conduct computational lingustics analysis of particular subreddits of choice, with emphasis on sentiment analysis.

@@ -12,5 +12,5 @@ plugins:
 navigation:
   - name: Read me
     link: ./index.html
-  - name: R markdown
-    link: ./dmir-7020
+  - name: IPython notebook
+    link: ./dmir-8410

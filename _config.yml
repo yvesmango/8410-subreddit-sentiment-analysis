@@ -1,0 +1,16 @@
+remote_theme: vaibhavvikas/jekyll-theme-minimalistic
+color-scheme: light
+
+title: 8420-subreddit-sentiment-analysis
+description: A text processing project on subreddit data.
+
+plugins:
+  - jekyll-sitemap
+  - jekyll-seo-tag
+  - jemoji
+
+navigation:
+  - name: Read me
+    link: ./index.html
+  - name: R markdown
+    link: ./custseg-7020

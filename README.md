@@ -1,4 +1,4 @@
-**[Home](https://yvesmango.github.io/) >> [Projects](https://yvesmango.github.io/projects) >>  7020 Customer Segmentation Analysis**
+**[Home](https://yvesmango.github.io/) >> [Projects](https://yvesmango.github.io/projects) >>  8420 Computational Lingistuics Analysis**
 
 # [Project] Subreddit Sentiment Analysis, A Course Final Project
 

@@ -1,7 +1,7 @@
 remote_theme: vaibhavvikas/jekyll-theme-minimalistic
 color-scheme: light
 
-title: 8420-subreddit-sentiment-analysis
+title: 8410-subreddit-sentiment-analysis
 description: A text processing project on subreddit data.
 
 plugins:

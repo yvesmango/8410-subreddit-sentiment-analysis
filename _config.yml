@@ -2,7 +2,7 @@ remote_theme: vaibhavvikas/jekyll-theme-minimalistic
 color-scheme: light
 
 title: 8410-subreddit-sentiment-analysis
-description: A text processing project on subreddit data.
+description: Computational text processing project using NLP libraries such as spaCy and nltk for entitiy recognition and sentiment analysis, respectively.
 
 plugins:
   - jekyll-sitemap

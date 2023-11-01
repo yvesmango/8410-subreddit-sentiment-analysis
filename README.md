@@ -6,7 +6,7 @@
 
 ## Introduction
 
-This project explores various aspects of data analysis and visualization within the context of subreddit content from multiple communities. The project aims to extract valuable insights from these datasets using data science methodologies.
+This project explores various aspects of data analysis and visualization within the context of subreddit text analysis. The project aims to extract valuable insights from these datasets using data science methodologies.
 
 ## Project Description
 

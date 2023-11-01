@@ -23,7 +23,7 @@ Subreddit Text Analysis: Text data from subreddits is preprocessed by removing s
 
 ## Conclusion
 
-In conclusion, this project provides a comprehensive exploration of data science methodologies applied to COVID-19 and subreddit content. Valuable insights are obtained from the analysis of COVID-19 data, and the sentiment and topic analysis of subreddit content provides interesting findings. The project opens opportunities for future analysis and recommendations.
+In conclusion, this project provides a comprehensive exploration of data science methodologies applied to subreddit content. Valuable insights are obtained from the sentiment and topic analysis of subreddit content provides interesting findings. The project opens opportunities for future analysis and recommendations.
 
 Future iteration could take the form of finding relationships or patterns between subreddits rather than isolated subreddit analyses.
 

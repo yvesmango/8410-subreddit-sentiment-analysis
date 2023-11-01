@@ -14,11 +14,11 @@ This project focuses on text analysis of subreddit content from four subreddits:
 
 ## Data Description
 
-- Subreddit Content: Text data is extracted from the selected subreddits. These datasets include post content, sentiment scores processed from VADER algorithim, and other relevant attributes such as date, and title.
+Subreddit Content: Text data is extracted from the selected subreddits. These datasets include post content, sentiment scores processed from VADER algorithim, and other relevant attributes such as date, and title.
 
 ## Methodology
 
-- Subreddit Text Analysis: Text data from subreddits is preprocessed by removing stopwords and punctuation. We use Natural Language Processing (NLP) techniques for topic modeling, sentiment analysis, and named entity recognition (NER). Visualization techniques include scatter plots, bar charts, and box plots.
+Subreddit Text Analysis: Text data from subreddits is preprocessed by removing stopwords and punctuation. We use Natural Language Processing (NLP) techniques for topic modeling, sentiment analysis, and named entity recognition (NER). Visualization techniques include scatter plots, bar charts, and box plots.
 
 
 ## Conclusion

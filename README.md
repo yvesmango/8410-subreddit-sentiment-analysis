@@ -6,26 +6,27 @@
 
 ## Introduction
 
-Provide an introduction to your project. Explain the context and background of your project.
+This project explores various aspects of data analysis and visualization within the context of subreddit content from multiple communities. The project aims to extract valuable insights from these datasets using data science methodologies.
 
 ## Project Description
 
-Give a detailed description of your project, including the objectives, data used, and the methods or techniques applied.
+This project focuses on text analysis of subreddit content from four subreddits: lawschool, data engineering, solotravel, and covid19positive. We extract topics, sentiments, and conduct sentiment analysis for further insights.
 
 ## Data Description
 
-Explain the data used in your project, including its source and important attributes. You can link to external data sources here.
+- Subreddit Content: Text data is extracted from the selected subreddits. These datasets include post content, sentiment scores processed from VADER algorithim, and other relevant attributes such as date, and title.
 
 ## Methodology
 
-Describe the methodologies, algorithms, or techniques used in your project.
+- Subreddit Text Analysis: Text data from subreddits is preprocessed by removing stopwords and punctuation. We use Natural Language Processing (NLP) techniques for topic modeling, sentiment analysis, and named entity recognition (NER). Visualization techniques include scatter plots, bar charts, and box plots.
 
-## Results
-
-Present the results and findings of your project. Use visual aids and data to support your conclusions.
 
 ## Conclusion
 
-Summarize the key takeaways and insights from your project. Mention any future directions or recommendations.
+In conclusion, this project provides a comprehensive exploration of data science methodologies applied to COVID-19 and subreddit content. Valuable insights are obtained from the analysis of COVID-19 data, and the sentiment and topic analysis of subreddit content provides interesting findings. The project opens opportunities for future analysis and recommendations.
+
+Future iteration could take the form of finding relationships or patterns between subreddits rather than isolated subreddit analyses.
 
 ## License
+
+MIT License
